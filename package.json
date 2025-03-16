@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://你的GitHub用户名.github.io/portfolio",
+  "homepage": "https://adamtzhang.github.io/portfolio",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
